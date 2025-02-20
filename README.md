@@ -1,6 +1,6 @@
 
 📊 Roberta Maria 
-Cientista de Dados 🚀
+
 👋 Olá! Sou Roberta Maria , tenho 24 anos, sou formada em Análise e Desenvolvimento de Sistemas e pós-graduada em Ciência de Dados . Sou apaixonado por dados e Machine Learning , sempre buscando transformar informações em insights valiosos!
 
 💡 Sobre Mim
